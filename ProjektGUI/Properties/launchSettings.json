@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProjektGUI": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
