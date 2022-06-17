@@ -1,6 +1,6 @@
 # Description
 
-A program that lets you compare times of correcting colors in an image using Assembly DLL or C# DLL and a different number of threads.
+A program that lets you compare times of correcting colors (changing RGB channels) in an image using DLLs written in Assembly and C#. It also has the option to select a specific number of threads (1-64).
 
 # Compiling
 
